@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pandas
+joblib
+openai
+neo4j
+python-dotenv
+requests
+scikit-learn
+pymupdf
